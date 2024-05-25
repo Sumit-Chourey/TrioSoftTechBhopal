@@ -1,2 +1,2 @@
 # TrioSoftTechBhopal
-All Day's Work
+Technologies: Java, SpringBoot, Python, Django
